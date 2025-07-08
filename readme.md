@@ -6,14 +6,18 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->  
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo123.avif" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-Seatwork-2</h3>
+  <h4 align="under">Ken Ehlvert E. Bacay</h4>
+  <h5 align="under">TC05</h5>
+
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This project consist of 5 different homepage layout
+using html and css 
 </div>
 
 <br />
@@ -58,21 +62,17 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+This project is a multi-page anime-themed website inspired by Spy x Family. It showcases different hero sections for each character, custom designs, and animation effects. Each page is styled uniquely to demonstrate web development skills in HTML, CSS, and basic UI/UX design principles. The project also includes a homepage and navigation system to connect all the pages.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Text animation
+- Showing different homepage using html and css
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -119,4 +119,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Photos| To get a perfect background and for my logo | https://www.bing.com/images/search?view=detailV2&ccid=LA3SaFDm&id=B1F281646D27F7167200B0BEEBC322A5AD188A32&thid=OIP.LA3SaFDmK_TyZqwSehINdQHaDt&mediaurl=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F04%2Ffeatured-spy-x-family-best-characters-loid-yor.jpg&exph=2000&expw=4000&q=spy+x+family&simid=607996525063244660&FORM=IRPRST&ck=E2995432DA1F0A9BC87F7D87EE4BDAD1&selectedIndex=0&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0 |
